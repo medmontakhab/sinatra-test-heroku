@@ -68,5 +68,5 @@ PLATFORMS
 
 DEPENDENCIES
   data_mapper (= 1.2.0)
-  dm-sqlite-adapter (= 1.2.0)
+  dm-sqlite-adapter (~> 1.2.0)
   sinatra (= 1.1.0)
